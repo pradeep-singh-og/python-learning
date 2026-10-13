@@ -1,2 +1,2 @@
 # python-learning
-My journey learning python from zero
+My python learning journey
