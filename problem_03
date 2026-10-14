@@ -1,0 +1,7 @@
+cars=['lamborgini','landcruisor','lexus','bentaly']
+message="My dream car is "+cars[0].title()
+message1="My dream car is "+cars[1].title()
+message2="My dream car is "+cars[2].title()
+print(message)
+print(message1)
+print(message2)
